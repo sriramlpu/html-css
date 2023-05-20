@@ -1,0 +1,208 @@
+body{
+    margin: 0px;
+    background-color: goldenrod;
+}
+/* container */
+.container{
+    background-color: lightseagreen;
+    height: 100vh;
+    padding: 5px;
+    width: 1200px;
+    margin: auto;
+}
+
+/* nav container */
+.navbar{
+    background-color: darkgray;
+    min-height: 70px;
+    width: 1080px;
+    margin: 0px auto;
+    
+}
+
+.nav-left{
+    height: 60px;
+    width: 150px;
+    background-color: #146C94;
+    text-align: center;
+    float: left;
+    margin: 5px;
+}
+
+.nav-right{
+    float: right;
+    height: 60px;
+    width: 400px;
+    background-color: #643843;
+    margin: 5px;
+}
+
+.download-app{
+    background-color: #FFB84C;
+    float: left;
+    margin: 10px;
+    height: 40px;
+    text-align: center;
+    width: 100px;
+}
+.become-supplier{
+    background-color: #11e61c;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    height: 40px;
+    width: 100px;
+}
+
+.profile-cart-container{
+    background-color: aqua;
+    height: 40px;
+    float: left;
+    width: 140px;
+    margin: 10px;
+}
+
+.profile{
+    background-color: #F97B22;
+    height: 20px;
+    float: left;
+    width: 50px;
+    margin: 8px;
+    padding: 2px;
+    text-align: center;
+}
+
+.cart{
+    background-color: #F45050;
+    height: 20px;
+    padding: 2px;
+    float: left;
+    width: 50px;
+    margin: 8px;
+    text-align: center;
+}
+
+
+/* categories */
+
+.categories{
+    height: 400px;
+    background-image: linear-gradient(to bottom right, red, yellow);
+    margin: 20px auto;
+    width: 1080px;
+}
+
+.store{
+    height: 360px;
+    width: 300px;
+    margin: 20px;
+    float: left;
+    text-align: center;
+}
+
+.women-store{
+    background-color: lightcoral;
+}
+
+.men-store{
+    background-color: rebeccapurple;
+}
+
+.kid-store{
+    background-color: darkolivegreen;
+} 
+
+
+.category{
+    height: 80px;
+    width: 110px;
+    margin: 20px;
+}
+
+.category-row1{
+    float: left;
+}
+
+/* women category */
+.women-clothing{
+    background-color: #F3DEBA;
+}
+
+.handbag{
+    background-color: #470505;
+}
+
+.jewellery{
+    background-color: #B46060;
+}
+
+.beauty{
+    background-color: #FF0303;
+}
+
+
+/* men category */
+.men-clothing{
+    background-color: #FFED00;
+}
+
+.grooming{
+    background-color: #ac93db;
+}
+
+.belt{
+    background-color: #FF7B54;
+}
+
+.watches{
+    background-color: #FF7000;
+}
+
+
+/* kid category */
+.kid-clothing{
+    background-color: #b84e4e;
+}
+
+.accessories{
+    background-color: #01324e;
+}
+
+.toys{
+    background-color: #a17091;
+}
+
+.healthcare{
+    background-color: #2b7945;
+}
+
+/* footer */
+
+.footer{
+    background-color: blue;
+    height: 120px;
+    width: 1080px;
+    margin: auto;
+    text-align: center;
+}
+
+.footer-container{
+    margin: 20px;
+    height: 80px;
+    width: 300px;
+    float: left;
+    text-align: center;
+}
+
+.footer-container1{
+    background-color: #9ED5C5;
+}
+
+.footer-container2{
+    background-color: #82CD47;
+}
+
+.footer-container3{
+    background-color: #CFFF8D;
+}
+
